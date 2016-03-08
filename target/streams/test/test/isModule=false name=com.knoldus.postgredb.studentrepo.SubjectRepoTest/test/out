@@ -1,0 +1,9 @@
+[0m[[0minfo[0m] [0m[32mSubjectRepoTest:[0m[0m
+[0m[[0minfo[0m] [0m[32m- Add a new Subject [0m[0m
+[0m[[0minfo[0m] [0m[32m- Update a Subject Record  [0m[0m
+[0m[[0minfo[0m] [0m[32m- Update a Invalid Subject Record  [0m[0m
+[0m[[0minfo[0m] [0m[32m- Delete an Existing Subject Record  [0m[0m
+[0m[[0minfo[0m] [0m[32m- Delete an Invalid Subject Record  [0m[0m
+[0m[[0minfo[0m] [0m[32m- Populate all Elements from Database[0m[0m
+[0m[[0minfo[0m] [0m[32m- Get a Subjects [0m[0m
+[0m[[0minfo[0m] [0m[32m- Get Invalid Subjects [0m[0m

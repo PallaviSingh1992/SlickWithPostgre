@@ -1,0 +1,5 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/knoldus-pallavi/Desktop/PostgreSlick/src/test/resources/schemadata.sql~,/home/knoldus-pallavi/Desktop/PostgreSlick/target/scala-2.11/test-classes/schemadata.sql~)[0m
+[0m[[0mdebug[0m] [0m	(/home/knoldus-pallavi/Desktop/PostgreSlick/src/test/resources/schema.sql~,/home/knoldus-pallavi/Desktop/PostgreSlick/target/scala-2.11/test-classes/schema.sql~)[0m
+[0m[[0mdebug[0m] [0m	(/home/knoldus-pallavi/Desktop/PostgreSlick/src/test/resources/schema.sql,/home/knoldus-pallavi/Desktop/PostgreSlick/target/scala-2.11/test-classes/schema.sql)[0m
+[0m[[0mdebug[0m] [0m	(/home/knoldus-pallavi/Desktop/PostgreSlick/src/test/resources/schemadata.sql,/home/knoldus-pallavi/Desktop/PostgreSlick/target/scala-2.11/test-classes/schemadata.sql)[0m

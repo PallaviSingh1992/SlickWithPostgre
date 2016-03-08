@@ -1,0 +1,1074 @@
+<scoverage 
+statement-count="293" statements-invoked="253" statement-rate="86.35" branch-rate="100.00" version="1.0" timestamp="1457418480187">
+    <packages>
+        <package 
+        name="com.knoldus.postgredb.studentconnection" statement-count="7" statements-invoked="0" statement-rate="0.00">
+            <classes>
+                <class 
+                name="MyPostgreDB" filename="com/knoldus/postgredb/studentconnection/PostgresSqlDBComponent.scala" statement-count="5" statements-invoked="0" statement-rate="0.00" branch-rate="0.00">
+                    <methods>
+                        <method 
+                        name="com.knoldus.postgredb.studentconnection/MyPostgreDB/&lt;none&gt;" statement-count="5" statements-invoked="0" statement-rate="0.00" branch-rate="0.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgredb.studentconnection" class="MyPostgreDB" class-type="Object" top-level-class="MyPostgreDB" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentconnection/PostgresSqlDBComponent.scala" method="&lt;none&gt;" start="340" end="340" line="18" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentconnection" class="MyPostgreDB" class-type="Object" top-level-class="MyPostgreDB" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentconnection/PostgresSqlDBComponent.scala" method="&lt;none&gt;" start="340" end="340" line="18" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentconnection" class="MyPostgreDB" class-type="Object" top-level-class="MyPostgreDB" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentconnection/PostgresSqlDBComponent.scala" method="&lt;none&gt;" start="331" end="363" line="18" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentconnection" class="MyPostgreDB" class-type="Object" top-level-class="MyPostgreDB" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentconnection/PostgresSqlDBComponent.scala" method="&lt;none&gt;" start="350" end="362" line="18" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentconnection" class="MyPostgreDB" class-type="Object" top-level-class="MyPostgreDB" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentconnection/PostgresSqlDBComponent.scala" method="&lt;none&gt;" start="340" end="340" line="18" branch="false" invocation-count="0" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+                <class 
+                name="PostgreSqlDBComponent" filename="com/knoldus/postgredb/studentconnection/PostgresSqlDBComponent.scala" statement-count="2" statements-invoked="0" statement-rate="0.00" branch-rate="0.00">
+                    <methods>
+                        <method 
+                        name="com.knoldus.postgredb.studentconnection/PostgreSqlDBComponent/&lt;none&gt;" statement-count="2" statements-invoked="0" statement-rate="0.00" branch-rate="0.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgredb.studentconnection" class="PostgreSqlDBComponent" class-type="Trait" top-level-class="PostgreSqlDBComponent" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentconnection/PostgresSqlDBComponent.scala" method="&lt;none&gt;" start="210" end="236" line="10" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentconnection" class="PostgreSqlDBComponent" class-type="Trait" top-level-class="PostgreSqlDBComponent" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentconnection/PostgresSqlDBComponent.scala" method="&lt;none&gt;" start="150" end="164" line="6" branch="false" invocation-count="0" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+            </classes>
+</package>
+        <package 
+        name="com.knoldus.postgredb.studentrepo" statement-count="286" statements-invoked="253" statement-rate="88.46">
+            <classes>
+                <class 
+                name="StudentTable" filename="com/knoldus/postgredb/studentrepo/StudentRepo.scala" statement-count="22" statements-invoked="22" statement-rate="100.00" branch-rate="100.00">
+                    <methods>
+                        <method 
+                        name="com.knoldus.postgredb.studentrepo/StudentTable/*" statement-count="13" statements-invoked="13" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentTable" class-type="Class" top-level-class="StudentRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="*" start="635" end="635" line="20" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentTable" class-type="Class" top-level-class="StudentRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="*" start="629" end="633" line="20" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentTable" class-type="Class" top-level-class="StudentRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="*" start="624" end="627" line="20" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentTable" class-type="Class" top-level-class="StudentRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="*" start="635" end="635" line="20" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentTable" class-type="Class" top-level-class="StudentRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="*" start="623" end="670" line="20" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentTable" class-type="Class" top-level-class="StudentRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="*" start="638" end="652" line="20" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentTable" class-type="Class" top-level-class="StudentRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="*" start="635" end="635" line="20" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentTable" class-type="Class" top-level-class="StudentRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="*" start="635" end="635" line="20" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentTable" class-type="Class" top-level-class="StudentRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="*" start="635" end="635" line="20" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentTable" class-type="Class" top-level-class="StudentRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="*" start="623" end="634" line="20" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentTable" class-type="Class" top-level-class="StudentRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="*" start="635" end="635" line="20" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentTable" class-type="Class" top-level-class="StudentRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="*" start="623" end="670" line="20" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentTable" class-type="Class" top-level-class="StudentRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="*" start="654" end="669" line="20" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.knoldus.postgredb.studentrepo/StudentTable/&lt;none&gt;" statement-count="9" statements-invoked="9" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentTable" class-type="Class" top-level-class="StudentRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="&lt;none&gt;" start="574" end="574" line="18" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentTable" class-type="Class" top-level-class="StudentRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="&lt;none&gt;" start="520" end="532" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentTable" class-type="Class" top-level-class="StudentRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="&lt;none&gt;" start="513" end="518" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentTable" class-type="Class" top-level-class="StudentRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="&lt;none&gt;" start="512" end="512" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentTable" class-type="Class" top-level-class="StudentRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="&lt;none&gt;" start="583" end="608" line="18" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentTable" class-type="Class" top-level-class="StudentRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="&lt;none&gt;" start="575" end="581" line="18" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentTable" class-type="Class" top-level-class="StudentRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="&lt;none&gt;" start="560" end="609" line="18" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentTable" class-type="Class" top-level-class="StudentRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="&lt;none&gt;" start="534" end="543" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentTable" class-type="Class" top-level-class="StudentRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="&lt;none&gt;" start="501" end="544" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+                <class 
+                name="StudentCrud" filename="com/knoldus/postgredb/studentrepo/StudentRepo.scala" statement-count="33" statements-invoked="33" statement-rate="100.00" branch-rate="100.00">
+                    <methods>
+                        <method 
+                        name="com.knoldus.postgredb.studentrepo/StudentCrud/update" statement-count="3" statements-invoked="3" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="update" start="1044" end="1059" line="39" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="update" start="1064" end="1115" line="40" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="update" start="1073" end="1113" line="40" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.knoldus.postgredb.studentrepo/StudentCrud/getById" statement-count="11" statements-invoked="11" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="getById" start="1289" end="1289" line="46" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="getById" start="1293" end="1295" line="46" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="getById" start="1283" end="1295" line="46" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="getById" start="1283" end="1288" line="46" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="getById" start="1267" end="1314" line="46" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="getById" start="1293" end="1293" line="46" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="getById" start="1289" end="1289" line="46" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="getById" start="1267" end="1296" line="46" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="getById" start="1282" end="1282" line="46" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="getById" start="1285" end="1285" line="46" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="getById" start="1258" end="1316" line="46" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.knoldus.postgredb.studentrepo/StudentCrud/delete" statement-count="11" statements-invoked="11" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="delete" start="1183" end="1195" line="43" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="delete" start="1167" end="1196" line="43" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="delete" start="1193" end="1193" line="43" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="delete" start="1189" end="1189" line="43" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="delete" start="1189" end="1189" line="43" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="delete" start="1182" end="1182" line="43" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="delete" start="1185" end="1185" line="43" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="delete" start="1158" end="1205" line="43" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="delete" start="1167" end="1203" line="43" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="delete" start="1183" end="1188" line="43" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="delete" start="1193" end="1195" line="43" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.knoldus.postgredb.studentrepo/StudentCrud/getStudents" statement-count="5" statements-invoked="5" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="getStudents" start="1373" end="1390" line="49" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="getStudents" start="1384" end="1384" line="49" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="getStudents" start="1364" end="1399" line="49" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="getStudents" start="1384" end="1384" line="49" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="getStudents" start="1373" end="1397" line="49" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.knoldus.postgredb.studentrepo/StudentCrud/create" statement-count="3" statements-invoked="3" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="create" start="920" end="977" line="35" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="create" start="929" end="975" line="35" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="StudentCrud" class-type="Trait" top-level-class="StudentCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/StudentRepo.scala" method="create" start="901" end="915" line="34" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+                <class 
+                name="SubjectCrud" filename="com/knoldus/postgredb/studentrepo/SubjectRepo.scala" statement-count="33" statements-invoked="33" statement-rate="100.00" branch-rate="100.00">
+                    <methods>
+                        <method 
+                        name="com.knoldus.postgredb.studentrepo/SubjectCrud/getSubjects" statement-count="5" statements-invoked="5" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="getSubjects" start="1433" end="1433" line="48" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="getSubjects" start="1423" end="1446" line="48" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="getSubjects" start="1423" end="1439" line="48" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="getSubjects" start="1433" end="1433" line="48" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="getSubjects" start="1414" end="1448" line="48" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.knoldus.postgredb.studentrepo/SubjectCrud/getById" statement-count="11" statements-invoked="11" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="getById" start="1314" end="1344" line="45" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="getById" start="1341" end="1341" line="45" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="getById" start="1337" end="1337" line="45" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="getById" start="1328" end="1328" line="45" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="getById" start="1305" end="1364" line="45" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="getById" start="1331" end="1331" line="45" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="getById" start="1337" end="1337" line="45" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="getById" start="1341" end="1343" line="45" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="getById" start="1329" end="1343" line="45" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="getById" start="1314" end="1362" line="45" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="getById" start="1329" end="1336" line="45" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.knoldus.postgredb.studentrepo/SubjectCrud/update" statement-count="3" statements-invoked="3" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="update" start="1112" end="1153" line="39" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="update" start="1081" end="1096" line="38" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="update" start="1103" end="1155" line="39" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.knoldus.postgredb.studentrepo/SubjectCrud/create" statement-count="3" statements-invoked="3" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="create" start="960" end="1006" line="34" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="create" start="930" end="944" line="33" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="create" start="951" end="1008" line="34" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.knoldus.postgredb.studentrepo/SubjectCrud/delete" statement-count="11" statements-invoked="11" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="delete" start="1234" end="1234" line="42" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="delete" start="1225" end="1225" line="42" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="delete" start="1202" end="1250" line="42" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="delete" start="1228" end="1228" line="42" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="delete" start="1211" end="1248" line="42" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="delete" start="1226" end="1233" line="42" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="delete" start="1238" end="1240" line="42" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="delete" start="1226" end="1240" line="42" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="delete" start="1234" end="1234" line="42" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="delete" start="1211" end="1241" line="42" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectCrud" class-type="Trait" top-level-class="SubjectCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="delete" start="1238" end="1238" line="42" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+                <class 
+                name="RelationTable" filename="com/knoldus/postgredb/studentrepo/RelationRepo.scala" statement-count="41" statements-invoked="19" statement-rate="46.34" branch-rate="100.00">
+                    <methods>
+                        <method 
+                        name="com.knoldus.postgredb.studentrepo/RelationTable/relfk1" statement-count="11" statements-invoked="0" statement-rate="0.00" branch-rate="0.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationTable" class-type="Class" top-level-class="RelationRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="relfk1" start="1467" end="1467" line="56" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationTable" class-type="Class" top-level-class="RelationRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="relfk1" start="1468" end="1473" line="56" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationTable" class-type="Class" top-level-class="RelationRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="relfk1" start="1467" end="1467" line="56" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationTable" class-type="Class" top-level-class="RelationRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="relfk1" start="1430" end="1451" line="56" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationTable" class-type="Class" top-level-class="RelationRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="relfk1" start="1467" end="1467" line="56" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationTable" class-type="Class" top-level-class="RelationRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="relfk1" start="1458" end="1466" line="56" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationTable" class-type="Class" top-level-class="RelationRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="relfk1" start="1429" end="1429" line="56" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationTable" class-type="Class" top-level-class="RelationRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="relfk1" start="1429" end="1429" line="56" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationTable" class-type="Class" top-level-class="RelationRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="relfk1" start="1467" end="1467" line="56" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationTable" class-type="Class" top-level-class="RelationRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="relfk1" start="1453" end="1456" line="56" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationTable" class-type="Class" top-level-class="RelationRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="relfk1" start="1419" end="1474" line="56" branch="false" invocation-count="0" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.knoldus.postgredb.studentrepo/RelationTable/&lt;none&gt;" statement-count="6" statements-invoked="6" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationTable" class-type="Class" top-level-class="RelationRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="&lt;none&gt;" start="1356" end="1361" line="52" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationTable" class-type="Class" top-level-class="RelationRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="&lt;none&gt;" start="1391" end="1398" line="53" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationTable" class-type="Class" top-level-class="RelationRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="&lt;none&gt;" start="1379" end="1399" line="53" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationTable" class-type="Class" top-level-class="RelationRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="&lt;none&gt;" start="1344" end="1362" line="52" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationTable" class-type="Class" top-level-class="RelationRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="&lt;none&gt;" start="1355" end="1355" line="52" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationTable" class-type="Class" top-level-class="RelationRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="&lt;none&gt;" start="1390" end="1390" line="53" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.knoldus.postgredb.studentrepo/RelationTable/*" statement-count="13" statements-invoked="13" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationTable" class-type="Class" top-level-class="RelationRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="*" start="1578" end="1578" line="60" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationTable" class-type="Class" top-level-class="RelationRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="*" start="1578" end="1578" line="60" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationTable" class-type="Class" top-level-class="RelationRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="*" start="1565" end="1577" line="60" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationTable" class-type="Class" top-level-class="RelationRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="*" start="1578" end="1578" line="60" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationTable" class-type="Class" top-level-class="RelationRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="*" start="1565" end="1615" line="60" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationTable" class-type="Class" top-level-class="RelationRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="*" start="1598" end="1614" line="60" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationTable" class-type="Class" top-level-class="RelationRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="*" start="1578" end="1578" line="60" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationTable" class-type="Class" top-level-class="RelationRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="*" start="1571" end="1576" line="60" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationTable" class-type="Class" top-level-class="RelationRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="*" start="1578" end="1578" line="60" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationTable" class-type="Class" top-level-class="RelationRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="*" start="1566" end="1569" line="60" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationTable" class-type="Class" top-level-class="RelationRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="*" start="1565" end="1615" line="60" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationTable" class-type="Class" top-level-class="RelationRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="*" start="1581" end="1596" line="60" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationTable" class-type="Class" top-level-class="RelationRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="*" start="1578" end="1578" line="60" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.knoldus.postgredb.studentrepo/RelationTable/relfk2" statement-count="11" statements-invoked="0" statement-rate="0.00" branch-rate="0.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationTable" class-type="Class" top-level-class="RelationRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="relfk2" start="1542" end="1542" line="58" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationTable" class-type="Class" top-level-class="RelationRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="relfk2" start="1493" end="1551" line="58" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationTable" class-type="Class" top-level-class="RelationRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="relfk2" start="1527" end="1532" line="58" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationTable" class-type="Class" top-level-class="RelationRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="relfk2" start="1503" end="1503" line="58" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationTable" class-type="Class" top-level-class="RelationRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="relfk2" start="1542" end="1542" line="58" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationTable" class-type="Class" top-level-class="RelationRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="relfk2" start="1504" end="1525" line="58" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationTable" class-type="Class" top-level-class="RelationRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="relfk2" start="1542" end="1542" line="58" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationTable" class-type="Class" top-level-class="RelationRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="relfk2" start="1543" end="1550" line="58" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationTable" class-type="Class" top-level-class="RelationRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="relfk2" start="1534" end="1541" line="58" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationTable" class-type="Class" top-level-class="RelationRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="relfk2" start="1503" end="1503" line="58" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationTable" class-type="Class" top-level-class="RelationRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="relfk2" start="1542" end="1542" line="58" branch="false" invocation-count="0" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+                <class 
+                name="RelationCrud" filename="com/knoldus/postgredb/studentrepo/RelationRepo.scala" statement-count="135" statements-invoked="124" statement-rate="91.85" branch-rate="100.00">
+                    <methods>
+                        <method 
+                        name="com.knoldus.postgredb.studentrepo/RelationCrud/getRelations" statement-count="5" statements-invoked="5" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getRelations" start="2545" end="2561" line="94" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getRelations" start="2555" end="2555" line="94" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getRelations" start="2536" end="2570" line="94" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getRelations" start="2555" end="2555" line="94" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getRelations" start="2545" end="2568" line="94" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.knoldus.postgredb.studentrepo/RelationCrud/deleteSubject" statement-count="11" statements-invoked="0" statement-rate="0.00" branch-rate="0.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="deleteSubject" start="2166" end="2166" line="82" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="deleteSubject" start="2157" end="2157" line="82" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="deleteSubject" start="2125" end="2189" line="81" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="deleteSubject" start="2160" end="2160" line="82" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="deleteSubject" start="2158" end="2165" line="82" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="deleteSubject" start="2143" end="2180" line="82" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="deleteSubject" start="2170" end="2172" line="82" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="deleteSubject" start="2158" end="2172" line="82" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="deleteSubject" start="2166" end="2166" line="82" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="deleteSubject" start="2143" end="2173" line="82" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="deleteSubject" start="2170" end="2170" line="82" branch="false" invocation-count="0" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.knoldus.postgredb.studentrepo/RelationCrud/getStudents" statement-count="40" statements-invoked="40" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getStudents" start="2937" end="2937" line="107" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getStudents" start="3002" end="3016" line="108" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getStudents" start="3043" end="3063" line="110" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getStudents" start="2941" end="2941" line="107" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getStudents" start="2962" end="2977" line="107" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getStudents" start="2910" end="2910" line="107" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getStudents" start="2941" end="2941" line="107" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getStudents" start="2958" end="2958" line="107" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getStudents" start="2934" end="2934" line="107" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getStudents" start="2910" end="2910" line="107" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getStudents" start="2958" end="2958" line="107" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getStudents" start="2928" end="2928" line="107" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getStudents" start="2964" end="2964" line="107" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getStudents" start="3008" end="3015" line="108" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getStudents" start="2910" end="2910" line="107" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getStudents" start="2888" end="3017" line="107" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getStudents" start="2968" end="2968" line="107" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getStudents" start="3007" end="3007" line="108" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getStudents" start="2931" end="2931" line="107" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getStudents" start="2941" end="2941" line="107" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getStudents" start="2934" end="2934" line="107" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getStudents" start="2941" end="2941" line="107" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getStudents" start="2910" end="2910" line="107" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getStudents" start="2937" end="2939" line="107" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getStudents" start="2994" end="3017" line="108" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getStudents" start="2941" end="2941" line="107" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getStudents" start="3025" end="3072" line="109" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getStudents" start="2958" end="2958" line="107" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getStudents" start="2995" end="3000" line="108" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getStudents" start="2910" end="2910" line="107" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getStudents" start="2929" end="2939" line="107" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getStudents" start="2962" end="2967" line="107" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getStudents" start="3007" end="3007" line="108" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getStudents" start="2929" end="2934" line="107" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getStudents" start="2941" end="2941" line="107" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getStudents" start="2968" end="2968" line="107" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getStudents" start="2910" end="2910" line="107" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getStudents" start="2950" end="2957" line="107" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getStudents" start="3007" end="3007" line="108" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getStudents" start="2972" end="2977" line="107" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.knoldus.postgredb.studentrepo/RelationCrud/updateSubject" statement-count="12" statements-invoked="12" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="updateSubject" start="2437" end="2437" line="90" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="updateSubject" start="2414" end="2446" line="90" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="updateSubject" start="2440" end="2440" line="90" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="updateSubject" start="2405" end="2476" line="90" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="updateSubject" start="2437" end="2437" line="90" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="updateSubject" start="2428" end="2428" line="90" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="updateSubject" start="2414" end="2474" line="90" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="updateSubject" start="2431" end="2431" line="90" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="updateSubject" start="2429" end="2436" line="90" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="updateSubject" start="2454" end="2473" line="90" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="updateSubject" start="2440" end="2445" line="90" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="updateSubject" start="2429" end="2445" line="90" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.knoldus.postgredb.studentrepo/RelationCrud/getSubjects" statement-count="40" statements-invoked="40" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getSubjects" start="2652" end="2652" line="98" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getSubjects" start="2670" end="2682" line="98" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getSubjects" start="2705" end="2712" line="98" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getSubjects" start="2742" end="2749" line="99" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getSubjects" start="2670" end="2677" line="98" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getSubjects" start="2756" end="2756" line="99" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getSubjects" start="2713" end="2713" line="98" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getSubjects" start="2684" end="2684" line="98" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getSubjects" start="2652" end="2652" line="98" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getSubjects" start="2741" end="2764" line="99" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getSubjects" start="2701" end="2701" line="98" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getSubjects" start="2684" end="2684" line="98" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getSubjects" start="2680" end="2682" line="98" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getSubjects" start="2792" end="2812" line="101" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getSubjects" start="2705" end="2724" line="98" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getSubjects" start="2680" end="2680" line="98" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getSubjects" start="2751" end="2763" line="99" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getSubjects" start="2684" end="2684" line="98" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getSubjects" start="2684" end="2684" line="98" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getSubjects" start="2701" end="2701" line="98" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getSubjects" start="2652" end="2652" line="98" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getSubjects" start="2677" end="2677" line="98" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getSubjects" start="2652" end="2652" line="98" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getSubjects" start="2756" end="2756" line="99" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getSubjects" start="2717" end="2724" line="98" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getSubjects" start="2693" end="2700" line="98" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getSubjects" start="2757" end="2762" line="99" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getSubjects" start="2652" end="2652" line="98" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getSubjects" start="2707" end="2707" line="98" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getSubjects" start="2756" end="2756" line="99" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getSubjects" start="2630" end="2764" line="98" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getSubjects" start="2672" end="2672" line="98" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getSubjects" start="2684" end="2684" line="98" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getSubjects" start="2713" end="2713" line="98" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getSubjects" start="2701" end="2701" line="98" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getSubjects" start="2652" end="2652" line="98" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getSubjects" start="2677" end="2677" line="98" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getSubjects" start="2684" end="2684" line="98" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getSubjects" start="2669" end="2669" line="98" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="getSubjects" start="2772" end="2821" line="100" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.knoldus.postgredb.studentrepo/RelationCrud/updateStudent" statement-count="12" statements-invoked="12" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="updateStudent" start="2272" end="2300" line="86" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="updateStudent" start="2296" end="2296" line="86" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="updateStudent" start="2263" end="2330" line="86" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="updateStudent" start="2293" end="2293" line="86" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="updateStudent" start="2286" end="2286" line="86" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="updateStudent" start="2272" end="2328" line="86" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="updateStudent" start="2289" end="2289" line="86" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="updateStudent" start="2293" end="2293" line="86" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="updateStudent" start="2296" end="2299" line="86" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="updateStudent" start="2287" end="2299" line="86" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="updateStudent" start="2308" end="2327" line="86" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="updateStudent" start="2287" end="2292" line="86" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.knoldus.postgredb.studentrepo/RelationCrud/create" statement-count="4" statements-invoked="4" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="create" start="1914" end="1933" line="73" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="create" start="1904" end="1911" line="73" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="create" start="1895" end="1935" line="73" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="create" start="1904" end="1933" line="73" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.knoldus.postgredb.studentrepo/RelationCrud/deleteStudent" statement-count="11" statements-invoked="11" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="deleteStudent" start="2032" end="2044" line="77" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="deleteStudent" start="2032" end="2037" line="77" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="deleteStudent" start="2017" end="2052" line="77" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="deleteStudent" start="2042" end="2044" line="77" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="deleteStudent" start="2042" end="2042" line="77" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="deleteStudent" start="2038" end="2038" line="77" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="deleteStudent" start="2017" end="2045" line="77" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="deleteStudent" start="2031" end="2031" line="77" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="deleteStudent" start="1999" end="2061" line="76" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="deleteStudent" start="2034" end="2034" line="77" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="RelationCrud" class-type="Trait" top-level-class="RelationCrud" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/RelationRepo.scala" method="deleteStudent" start="2038" end="2038" line="77" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+                <class 
+                name="SubjectTable" filename="com/knoldus/postgredb/studentrepo/SubjectRepo.scala" statement-count="22" statements-invoked="22" statement-rate="100.00" branch-rate="100.00">
+                    <methods>
+                        <method 
+                        name="com.knoldus.postgredb.studentrepo/SubjectTable/&lt;none&gt;" statement-count="9" statements-invoked="9" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectTable" class-type="Class" top-level-class="SubjectRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="&lt;none&gt;" start="595" end="620" line="18" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectTable" class-type="Class" top-level-class="SubjectRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="&lt;none&gt;" start="584" end="593" line="18" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectTable" class-type="Class" top-level-class="SubjectRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="&lt;none&gt;" start="569" end="621" line="18" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectTable" class-type="Class" top-level-class="SubjectRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="&lt;none&gt;" start="540" end="549" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectTable" class-type="Class" top-level-class="SubjectRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="&lt;none&gt;" start="526" end="538" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectTable" class-type="Class" top-level-class="SubjectRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="&lt;none&gt;" start="505" end="550" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectTable" class-type="Class" top-level-class="SubjectRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="&lt;none&gt;" start="583" end="583" line="18" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectTable" class-type="Class" top-level-class="SubjectRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="&lt;none&gt;" start="517" end="524" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectTable" class-type="Class" top-level-class="SubjectRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="&lt;none&gt;" start="516" end="516" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.knoldus.postgredb.studentrepo/SubjectTable/*" statement-count="13" statements-invoked="13" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectTable" class-type="Class" top-level-class="SubjectRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="*" start="652" end="652" line="20" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectTable" class-type="Class" top-level-class="SubjectRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="*" start="652" end="652" line="20" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectTable" class-type="Class" top-level-class="SubjectRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="*" start="652" end="652" line="20" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectTable" class-type="Class" top-level-class="SubjectRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="*" start="635" end="651" line="20" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectTable" class-type="Class" top-level-class="SubjectRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="*" start="652" end="652" line="20" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectTable" class-type="Class" top-level-class="SubjectRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="*" start="643" end="650" line="20" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectTable" class-type="Class" top-level-class="SubjectRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="*" start="635" end="687" line="20" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectTable" class-type="Class" top-level-class="SubjectRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="*" start="671" end="686" line="20" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectTable" class-type="Class" top-level-class="SubjectRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="*" start="652" end="652" line="20" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectTable" class-type="Class" top-level-class="SubjectRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="*" start="652" end="652" line="20" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectTable" class-type="Class" top-level-class="SubjectRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="*" start="636" end="641" line="20" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectTable" class-type="Class" top-level-class="SubjectRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="*" start="635" end="687" line="20" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.knoldus.postgredb.studentrepo" class="SubjectTable" class-type="Class" top-level-class="SubjectRepo" source="/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/scala-2.11/com/knoldus/postgredb/studentrepo/SubjectRepo.scala" method="*" start="655" end="669" line="20" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+            </classes>
+</package>
+    </packages>
+</scoverage>

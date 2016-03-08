@@ -1,0 +1,11 @@
+[0m[[0minfo[0m] [0m[32mRelationRepoTest:[0m[0m
+[0m[[0minfo[0m] [0m[32m- Add a new Relation (StudentID-SubjectID) [0m[0m
+[0m[[0minfo[0m] [0m[32m- Update a Relation Record for Student ID [0m[0m
+[0m[[0minfo[0m] [0m[32m- Update a Relation Record for Subject ID [0m[0m
+[0m[[0minfo[0m] [0m[32m- Delete an Existing Relation Record with Student ID [0m[0m
+[0m[[0minfo[0m] [0m[32m- Delete an Existing Relation Record with Subject ID [0m[0m
+[0m[[0minfo[0m] [0m[32m- Populate all Elements from Database[0m[0m
+[0m[[0minfo[0m] [0m[32m- Get Subject by Students[0m[0m
+[0m[[0minfo[0m] [0m[32m- Get Student by Subject[0m[0m
+[0m[[0minfo[0m] [0m[32m- Get Invalid Subject by Students[0m[0m
+[0m[[0minfo[0m] [0m[32m- Get Invalid Student by Subject[0m[0m

@@ -1,0 +1,10 @@
+postgresql = {
+	dataSourceClass="org.postgresql.jdbc2.optional.SimpleDataSource"
+	properties {
+		user="root"
+		password="root"
+		databaseName="bank_db"
+		serverName="localhost"
+	}
+	numThreads=10
+}

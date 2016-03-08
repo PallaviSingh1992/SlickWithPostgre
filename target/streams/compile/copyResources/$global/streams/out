@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/resources/aplication.conf~,/home/knoldus-pallavi/Desktop/PostgreSlick/target/scala-2.11/classes/aplication.conf~)[0m
+[0m[[0mdebug[0m] [0m	(/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/resources/logback.xml,/home/knoldus-pallavi/Desktop/PostgreSlick/target/scala-2.11/classes/logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(/home/knoldus-pallavi/Desktop/PostgreSlick/src/main/resources/application.conf,/home/knoldus-pallavi/Desktop/PostgreSlick/target/scala-2.11/classes/application.conf)[0m

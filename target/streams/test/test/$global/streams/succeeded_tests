@@ -1,0 +1,5 @@
+#Successful Tests
+#Tue Mar 08 11:57:27 IST 2016
+com.knoldus.postgredb.studentrepo.SubjectRepoTest=1457418446318
+com.knoldus.postgredb.studentrepo.RelationRepoTest=1457418447424
+com.knoldus.postgredb.studentrepo.StudentRepoTest=1457418446314

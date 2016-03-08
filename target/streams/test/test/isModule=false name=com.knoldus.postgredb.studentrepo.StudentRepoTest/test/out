@@ -1,0 +1,9 @@
+[0m[[0minfo[0m] [0m[32mStudentRepoTest:[0m[0m
+[0m[[0minfo[0m] [0m[32m- Add a new Student [0m[0m
+[0m[[0minfo[0m] [0m[32m- Update a student Record  [0m[0m
+[0m[[0minfo[0m] [0m[32m- Update a Invalid Students [0m[0m
+[0m[[0minfo[0m] [0m[32m- Delete an Existing Student Record  [0m[0m
+[0m[[0minfo[0m] [0m[32m- Delete a Invalid Student [0m[0m
+[0m[[0minfo[0m] [0m[32m- Get a Students [0m[0m
+[0m[[0minfo[0m] [0m[32m- Get a Invalid Students [0m[0m
+[0m[[0minfo[0m] [0m[32m- Populate all Elements from Database[0m[0m
